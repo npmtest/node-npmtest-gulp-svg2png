@@ -1,4 +1,7 @@
-# test coverage for  [gulp-svg2png (v2.0.2)](https://github.com/akoenig/gulp-svg2png)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg2png.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg2png) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg2png.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg2png)
+# npmtest-gulp-svg2png
+
+#### test coverage for  [gulp-svg2png (v2.0.2)](https://github.com/akoenig/gulp-svg2png)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg2png.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg2png) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg2png.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg2png)
+
 #### A gulp plugin for converting SVGs to PNGs.
 
 [![NPM](https://nodei.co/npm/gulp-svg2png.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-svg2png)
