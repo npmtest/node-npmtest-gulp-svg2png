@@ -1,6 +1,6 @@
 # npmtest-gulp-svg2png
 
-#### test coverage for  [gulp-svg2png (v2.0.2)](https://github.com/akoenig/gulp-svg2png)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg2png.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg2png) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg2png.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg2png)
+#### basic test coverage for  [gulp-svg2png (v2.0.2)](https://github.com/akoenig/gulp-svg2png)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg2png.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg2png) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg2png.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg2png)
 
 #### A gulp plugin for converting SVGs to PNGs.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-svg2png/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-svg2png/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-svg2png/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-svg2png/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-svg2png/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-svg2png/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-svg2png/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-svg2png/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-svg2png/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-svg2png/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-svg2png/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-svg2png/build/coverage.html/index.html)
 
@@ -92,7 +92,8 @@
         "test": "npm run build && npm run mocha",
         "typings": "typings install -SA"
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
